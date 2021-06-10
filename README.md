@@ -11,7 +11,7 @@ npm install
 ```
 
 # Construido con 🛠️
-* [React](https://es.reactjs.org/) - Biblioteca de Javascript
+* [React](https://es.reactjs.org/) - Libreria para Javascript
 * [Redux](https://es.redux.js.org/) - Libreria para manejo del estado
 * [Node](https://nodejs.org/es/) - Lenguaje de Backend
 * [Express](https://expressjs.com/es/) - Framework para Backend
