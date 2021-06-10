@@ -5,9 +5,7 @@ Reviewers es una pagina web que nace de la busqueda de reseñas y opiniones de t
 Pagina web completa desarrollada como parte del programa de programacion web Full Stack MERN realizado en MindHub, siguiendo buenas practicas y metodologias agiles para la elaboracion de la misma, consume y realiza peticiones a una API creada por el equipo para crear, obtener, modificar y borrar articulos.
 
 # Puede hechar un vistazo aquí  🚀
-```
-# https://los-reviewers.herokuapp.com/
-```
+https://los-reviewers.herokuapp.com/
 
 # Construido con 🛠️
 * [React](https://es.reactjs.org/) - Libreria para Javascript
@@ -23,6 +21,3 @@ Pagina web completa desarrollada como parte del programa de programacion web Ful
 * **Jose Zaccaro** - [Jose](https://github.com/JoseZaccaro)
 * **Daniel Comes** - [Daniel](https://github.com/Danielcomes92)
 * **Mateo Lorenzo** - [Mateo](https://github.com/MatuMto)
-
-# Enlace a página hosteada
-https://los-reviewers.herokuapp.com/
